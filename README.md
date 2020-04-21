@@ -1,0 +1,2 @@
+# Dimensionality-reduction-of-images-to-improve-time-efficiency-of-models
+CNN works as a feature extractor, theses features can be transformed into lower dimension using either linear or non linear dimension reduction techniques before using these features for classification. This approach is demonstrated in action by converting the features of images in MINST dataset into lower dimension by using PCA and then feeding these new features into a classifier(fully connected layers with softmax activation in this case)
